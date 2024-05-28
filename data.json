@@ -1,20 +1,19 @@
 {
   "Aquatic Resources Screening with Fieldwork": {
     "RegulatoryContext1": "The United States Army Corps of Engineers (USACE) regulates jurisdictional waters of the United States (WOTUS) under the federal Clean Water Act (CWA), via CWA Section 404 and Section 401 permits. The Nevada Department of Environmental Protection (NDEP) regulates and permits various activities in aquatic resources determined to be Waters of the State (WOTS).",
-    "Description1": "An Aquatic Resources Screening Report is a technical memo that describes the lateral extent of aquatic features located within a project boundary and assesses the need for the proposed project to obtain permits from the USACE and NDEP."
-    "Methods1": "UES will conduct a desktop review of publicly available data sources and aerial imagery. UES will also conduct a site visit to document current field conditions of the project area identified by the Client. Field data to be collected includes georeferenced photographs, ordinary high water mark (OHWM) measurements, and general site descriptions."
-    "CPI1":"Project boundary in electronic format (.kml or .shp)"
-    "CPI2":"Project description"
-    "CPI3":"Written notice to proceed"
-    "AandL1":"Project is accessible"
-    "AandL2":"Weather is conducive to field work"
-    "AandL2":"Client comments will be editorial in nature"
-    "Deliverables1":"A draft screenng report will be submitted for the client to review."
-    "Deliverables2":"One round of client comments will be incorporated into the draft report."
-    "Deliverables3":"A final report will be submitted to the client for their records"
-    "Dependency1":"Notice to Proceed"
-    "BudgetType1":"Lump Sum"
-    
+    "Description1": "An Aquatic Resources Screening Report is a technical memo that describes the lateral extent of aquatic features located within a project boundary and assesses the need for the proposed project to obtain permits from the USACE and NDEP.",
+    "Methods1": "UES will conduct a desktop review of publicly available data sources and aerial imagery. UES will also conduct a site visit to document current field conditions of the project area identified by the Client. Field data to be collected includes georeferenced photographs, ordinary high water mark (OHWM) measurements, and general site descriptions.",
+    "CPI1": "Project boundary in electronic format (.kml or .shp)",
+    "CPI2": "Project description",
+    "CPI3": "Written notice to proceed",
+    "AandL1": "Project is accessible",
+    "AandL2": "Weather is conducive to field work",
+    "AandL3": "Client comments will be editorial in nature",
+    "Deliverables1": "A draft screening report will be submitted for the client to review.",
+    "Deliverables2": "One round of client comments will be incorporated into the draft report.",
+    "Deliverables3": "A final report will be submitted to the client for their records",
+    "Dependency1": "Notice to Proceed",
+    "BudgetType1": "Lump Sum"
   },
   "NDEP WIW Permit": {
     "PrefilledField1": "Sample Value 3",
