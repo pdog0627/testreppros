@@ -16,8 +16,21 @@
     "Dependency1": "Notice to Proceed",
     "BudgetType1": "Lump Sum"
   },
-  "NDEP WIW Permit": {
-    "PrefilledField1": "Sample Value 3",
-    "PrefilledField2": "Sample Value 4"
+  "NDEP Temporary Working in Waters Permit": {
+    "Task1": "NDEP Temporary Working in Waters Permit",
+    "RegulatoryContext1": "During the planned project activities, work will be done in watercourses, drainages, stormwater channels, and/or other features that are Waters of the State of Nevada (WOTS). WOTS are regulated by the Nevada Department of Environmental Protection (NDEP). NDEP requires a Working in Waters permit for any work done with “heavy equipment” in WOTS. A temporary Working in Waters (WIW) Permit is valid for 180 days from issuance. A project may obtain up to two temporary permits per project (which may be defined differently by NDEP than the client) before an individual permit (valid for up to five years) is necessary.",
+    "Description1": "UES will coordinate on behalf of the client to obtain a temporary WIW permit from NDEP. This task includes field work, client coordination, submittal package, monitoring log, and agency coordination.",
+    "Methods1": "Need to fill in",
+    "CPI1": "Project boundary in electronic format (.kml or .shp)",
+    "CPI2": "Project description",
+    "CPI3": "Written notice to proceed",
+    "AandL1": "Project is accessible",
+    "AandL2": "Weather is conducive to field work",
+    "AandL3": "Client comments will be editorial in nature",
+    "Deliverables1": "A draft screening report will be submitted for the client to review.",
+    "Deliverables2": "One round of client comments will be incorporated into the draft report.",
+    "Deliverables3": "A final report will be submitted to the client for their records",
+    "Dependency1": "Notice to Proceed",
+    "BudgetType1": "Lump Sum"
   }
 }
