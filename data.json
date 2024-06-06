@@ -33,7 +33,6 @@
     "Cost1": "3,500",
     "ScheduleDays1": "14"
   },
-  
   "NDEP Individual Working in Waters": {
     "Task1": "NDEP Individual Working in Waters",
     "RegulatoryContext1": "During the planned project activities, work will be done in watercourses, drainages, stormwater channels, and/or other features that are Waters of the State of Nevada (WOTS). WOTS are regulated by the Nevada Division of Environmental Protection (NDEP). NDEP requires a Working in Waters permit for any work done with “heavy equipment” in WOTS. An individual Working in Waters (WIW) Permit is valid for up to five (5) years from issuance.",
@@ -46,6 +45,6 @@
     "Deliverables1": "Permit submission package",
     "Dependency1": "Signed and executed contract and notice to proceed",
     "BudgetType1": "Lump Sum",
-    "Cost1": "10,000",
-
+    "Cost1": "10,000"
+  }
 }
