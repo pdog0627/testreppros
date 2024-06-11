@@ -461,7 +461,7 @@
     "AandL11": "The agreement may be terminated by the client for convenience or default.",
     "Deliverables11": "UES will provide consultation services, senior review services, field work, agency coordination and corresponding technical memos as requested.",
     "Dependency1": "Verbal or written request, as needed.",
-    "BudgetType1": "Time and Material",
+    "BudgetType1": "Time and Materials",
     "Task2": "General On Call Services",
     "AcTask2": "",
     "RegulatoryContext2": "",
@@ -474,7 +474,7 @@
     "AandL12": "The agreement may be terminated by the client for convenience or default.",
     "Deliverables12": "UES will provide consultation services, senior review services, field work, agency coordination and corresponding technical memos as requested.",
     "Dependency2": "Verbal or written request, as needed.",
-    "BudgetType2": "Time and Material",
+    "BudgetType2": "Time and Materials",
     "Task3": "General On Call Services",
     "AcTask3": "",
     "RegulatoryContext3": "",
@@ -487,7 +487,7 @@
     "AandL13": "The agreement may be terminated by the client for convenience or default.",
     "Deliverables13": "UES will provide consultation services, senior review services, field work, agency coordination and corresponding technical memos as requested.",
     "Dependency3": "Verbal or written request, as needed.",
-    "BudgetType3": "Time and Material",
+    "BudgetType3": "Time and Materials",
     "Task4": "General On Call Services",
     "AcTask4": "",
     "RegulatoryContext4": "",
@@ -500,7 +500,7 @@
     "AandL14": "The agreement may be terminated by the client for convenience or default.",
     "Deliverables14": "UES will provide consultation services, senior review services, field work, agency coordination and corresponding technical memos as requested.",
     "Dependency4": "Verbal or written request, as needed.",
-    "BudgetType4": "Time and Material"
+    "BudgetType4": "Time and Materials"
   }
 }
 
