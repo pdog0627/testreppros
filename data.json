@@ -1079,7 +1079,7 @@
     "Cost4": "",
     "ScheduleDays4": ""
       },
-    "Aquatic Resources Delineation and Impact Analysis": {
+  "Aquatic Resources Delineation and Impact Analysis": {
     "Task1": "Aquatic Resources Delineation and Impact Analysis",
     "AcTask1": "Aquatic Resources Delineation and Impact Analysis",
     "RegulatoryContext1": "The US Army Corps of Engineers (USACE) regulates the placement of dredged or fill material into all waters of the U.S. (WOTUS) under Section 404 of the Clean Water Act (CWA). Under Section 404 of the CWA, the USACE may issue a permit for the placement of fill material into WOTUS. The type of permit is dependent on the acreage of jurisdictional WOTUS present and impacted by a proposed project.",
@@ -1094,8 +1094,8 @@
     "Deliverables11": "A draft and final Aquatic Resources Delineation Report will be provided.",
     "Deliverables12": "A draft Impacts Analysis will be provided.",
     "Dependency1": "Notice to Proceed",
-    "BudgetType1": "Time and Materials",
-    "Cost": "",
+    "BudgetType1": "Lump Sum",
+    "Cost": "7,500",
     "ScheduleDays1": "",
     "Task2": "Aquatic Resources Delineation and Impact Analysis",
     "AcTask2": "Aquatic Resources Delineation and Impact Analysis",
@@ -1111,8 +1111,8 @@
     "Deliverables21": "A draft and final Aquatic Resources Delineation Report will be provided.",
     "Deliverables22": "A draft Impacts Analysis will be provided.",
     "Dependency2": "Notice to Proceed",
-    "BudgetType2": "Time and Materials",
-    "Cost2": "",
+    "BudgetType2": "Lump Sum",
+    "Cost2": "7,500",
     "ScheduleDays2": "",
     "Task3": "Aquatic Resources Delineation and Impact Analysis",
     "AcTask3": "Aquatic Resources Delineation and Impact Analysis",
@@ -1128,8 +1128,8 @@
     "Deliverables31": "A draft and final Aquatic Resources Delineation Report will be provided.",
     "Deliverables32": "A draft Impacts Analysis will be provided.",
     "Dependency3": "Notice to Proceed",
-    "BudgetType3": "Time and Materials",
-    "Cost3": "",
+    "BudgetType3": "Lump Sum",
+    "Cost3": "7,500",
     "ScheduleDays3": "",
     "Task4": "Aquatic Resources Delineation and Impact Analysis",
     "AcTask4": "Aquatic Resources Delineation and Impact Analysis",
@@ -1145,8 +1145,8 @@
     "Deliverables41": "A draft and final Aquatic Resources Delineation Report will be provided.",
     "Deliverables42": "A draft Impacts Analysis will be provided.",
     "Dependency4": "Notice to Proceed",
-    "BudgetType4": "Time and Materials",
-    "Cost4": "",
+    "BudgetType4": "Lump Sum",
+    "Cost4": "7,500",
     "ScheduleDays4": ""
   }
 }
