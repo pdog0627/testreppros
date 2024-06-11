@@ -447,7 +447,8 @@
     "BudgetType4": "Time and Materials",
     "Cost4": "32,000",
     "ScheduleDays4": "30"
-      {
+  },
+    
   "General On Call Services": {
     "Task1": "General On Call Services",
     "AcTask1": "",
