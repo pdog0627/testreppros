@@ -579,7 +579,7 @@
     },
     "Aquatic Resources Desktop Screening": {
     "Task1": "Aquatic Resources Desktop Screening",
-    "AcTask1": "",
+    "AcTask1": "Aquatic Resources Desktop Screening",
     "RegulatoryContext1": "The United States Army Corps of Engineers (USACE) regulates jurisdictional waters of the United States (WOTUS) under the federal Clean Water Act (CWA), via CWA Section 404 and Section 401 permits. The Nevada Department of Environmental Protection (NDEP) regulates and permits various activities in aquatic resources determined to be Waters of the State (WOTS).",
     "Description1": "A Desktop Aquatic Resources Screening Report is a technical memo that describes the extent of expected aquatic features located within a project boundary and assesses the need for the proposed project to obtain a permit from the USACE and NDEP, to the extent practicable without a field visit.",
     "Methods1": "UES will conduct a desktop review of publicly available data sources and aerial imagery.",
