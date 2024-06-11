@@ -1166,6 +1166,20 @@
     "AcTask4": "Special Status Plant Survey",
     "RegulatoryContext4": "",
     "Methods4": "A desktop survey of publicly available data sources will be reviewed to develop a target list of special status plant species (SSPS). BLM approved botanists will conduct the required field surveys. Prior to performing surveys, nearby SSPS reference locations will be visited to obtain a visual of the current phenological status of each species. Once the botanists are familiar with the targeted SSPS and their habitats, a project wide habitat assessment will be conducted. All data will be recorded using digital collection methods, including photographs, GPS coordinates, and plant list."
+  },
+     "NDF Take Permit": {
+    "Task1": "NDF Take Permit",
+    "AcTask1": "NDF Take Permit",
+    "Description1": "After field surveys are complete, data will be processed and used for a NDF Take Permit. The permit package will follow NDF’s guidelines, including all required documentation, mapping, and data. The package will be submitted to the agency as soon as practicably possible.",
+    "Task2": "NDF Take Permit",
+    "AcTask2": "NDF Take Permit",
+    "Description2": "After field surveys are complete, data will be processed and used for a NDF Take Permit. The permit package will follow NDF’s guidelines, including all required documentation, mapping, and data. The package will be submitted to the agency as soon as practicably possible.",
+    "Task3": "NDF Take Permit",
+    "AcTask3": "NDF Take Permit",
+    "Description3": "After field surveys are complete, data will be processed and used for a NDF Take Permit. The permit package will follow NDF’s guidelines, including all required documentation, mapping, and data. The package will be submitted to the agency as soon as practicably possible.",
+    "Task4": "NDF Take Permit",
+    "AcTask4": "NDF Take Permit",
+    "Description4": "After field surveys are complete, data will be processed and used for a NDF Take Permit. The permit package will follow NDF’s guidelines, including all required documentation, mapping, and data. The package will be submitted to the agency as soon as practicably possible."
   }
 }
 
