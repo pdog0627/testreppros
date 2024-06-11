@@ -1148,6 +1148,24 @@
     "BudgetType4": "Lump Sum",
     "Cost4": "7,500",
     "ScheduleDays4": ""
+  },
+     "Special Status Plant Survey": {
+    "Task1": "Special Status Plant Survey",
+    "AcTask1": "Special Status Plant Survey",
+    "RegulatoryContext1": "",
+    "Methods1": "A desktop survey of publicly available data sources will be reviewed to develop a target list of special status plant species (SSPS). BLM approved botanists will conduct the required field surveys. Prior to performing surveys, nearby SSPS reference locations will be visited to obtain a visual of the current phenological status of each species. Once the botanists are familiar with the targeted SSPS and their habitats, a project wide habitat assessment will be conducted. All data will be recorded using digital collection methods, including photographs, GPS coordinates, and plant list.",
+    "Task2": "Special Status Plant Survey",
+    "AcTask2": "Special Status Plant Survey",
+    "RegulatoryContext2": "",
+    "Methods2": "A desktop survey of publicly available data sources will be reviewed to develop a target list of special status plant species (SSPS). BLM approved botanists will conduct the required field surveys. Prior to performing surveys, nearby SSPS reference locations will be visited to obtain a visual of the current phenological status of each species. Once the botanists are familiar with the targeted SSPS and their habitats, a project wide habitat assessment will be conducted. All data will be recorded using digital collection methods, including photographs, GPS coordinates, and plant list.",
+    "Task3": "Special Status Plant Survey",
+    "AcTask3": "Special Status Plant Survey",
+    "RegulatoryContext3": "",
+    "Methods3": "A desktop survey of publicly available data sources will be reviewed to develop a target list of special status plant species (SSPS). BLM approved botanists will conduct the required field surveys. Prior to performing surveys, nearby SSPS reference locations will be visited to obtain a visual of the current phenological status of each species. Once the botanists are familiar with the targeted SSPS and their habitats, a project wide habitat assessment will be conducted. All data will be recorded using digital collection methods, including photographs, GPS coordinates, and plant list.",
+    "Task4": "Special Status Plant Survey",
+    "AcTask4": "Special Status Plant Survey",
+    "RegulatoryContext4": "",
+    "Methods4": "A desktop survey of publicly available data sources will be reviewed to develop a target list of special status plant species (SSPS). BLM approved botanists will conduct the required field surveys. Prior to performing surveys, nearby SSPS reference locations will be visited to obtain a visual of the current phenological status of each species. Once the botanists are familiar with the targeted SSPS and their habitats, a project wide habitat assessment will be conducted. All data will be recorded using digital collection methods, including photographs, GPS coordinates, and plant list."
   }
 }
 
