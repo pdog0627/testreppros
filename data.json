@@ -262,7 +262,7 @@
     "Deliverables21": "One round of client comments will be addressed",
     "Dependency1": "Executed contract",
     "BudgetType1": "Time and Materials",
-    "Cost": "25,000",
+    "Cost1": "25,000",
     "ScheduleDays1": "60",
     "Task2": "Biological Assessment",
     "AcTask2": "Biological Assessment",
@@ -312,7 +312,8 @@
     "BudgetType4": "Time and Materials",
     "Cost4": "25,000",
     "ScheduleDays4": "60"
-      },
+  },
+
   "Environmental Assessment": {
     "Task1": "Environmental Assessment",
     "AcTask1": "Environmental Assessment",
