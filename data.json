@@ -571,16 +571,16 @@
     "Dependency4": "Verbal or written request, as needed.",
     "BudgetType4": "Time and Materials"
   },
-      "Aquatic Resources On Call Budget": {
+ "Aquatic Resources On Call Budget": {
     "Task1": "Aquatic Resources On Call Budget",
     "AcTask1": "Aquatic Resources On Call Budget",
-    "Description1": "A secondary “On-Call” budget will also be available on a Time-and-Materials basis should the client require further investigation, agency coordination, or strategic consultation related to the subject project. .",
+    "Description1": "A secondary “On-Call” budget will also be available on a Time-and-Materials basis should the client require further investigation, agency coordination, or strategic consultation related to the subject project.",
     "AandL11": "This budget is discretionary, entails no expectations, and is included to expedite potential problem solving during the permitting and planning process.",
     "Deliverables11": "UES will provide consultation services, senior review services, field work, agency coordination and corresponding technical memos as requested.",
     "Dependency1": "Verbal or written request, as needed.",
     "BudgetType1": "Time and Materials",
-"Cost1": “3,500",
-    "ScheduleDays1": “7”,
+    "Cost1": "3,500",
+    "ScheduleDays1": "7",
     "Task2": "Aquatic Resources On Call Budget",
     "AcTask2": "Aquatic Resources On Call Budget",
     "Description2": "Universal Engineering Sciences will provide environmental resource planning, analysis and compliance services on an on-call basis.",
@@ -588,8 +588,8 @@
     "Deliverables12": "UES will provide consultation services, senior review services, field work, agency coordination and corresponding technical memos as requested.",
     "Dependency2": "Verbal or written request, as needed.",
     "BudgetType2": "Time and Materials",
-"Cost2": “3,500",
-    "ScheduleDays2": “7”,
+    "Cost2": "3,500",
+    "ScheduleDays2": "7",
     "Task3": "Aquatic Resources On Call Budget",
     "AcTask3": "Aquatic Resources On Call Budget",
     "RegulatoryContext3": "",
@@ -598,8 +598,8 @@
     "Deliverables13": "UES will provide consultation services, senior review services, field work, agency coordination and corresponding technical memos as requested.",
     "Dependency3": "Verbal or written request, as needed.",
     "BudgetType3": "Time and Materials",
-"Cost3": “3,500",
-    "ScheduleDays3": “7”,
+    "Cost3": "3,500",
+    "ScheduleDays3": "7",
     "Task4": "Aquatic Resources On Call Budget",
     "AcTask4": "Aquatic Resources On Call Budget",
     "RegulatoryContext4": "",
@@ -608,8 +608,8 @@
     "Deliverables14": "UES will provide consultation services, senior review services, field work, agency coordination and corresponding technical memos as requested.",
     "Dependency4": "Verbal or written request, as needed.",
     "BudgetType4": "Time and Materials",
-"Cost4": “3,500",
-    "ScheduleDays4": “7”
+    "Cost4": "3,500",
+    "ScheduleDays4": "7"
   },
     "Agency Coordination": {
     "Task1": "Agency Coordination",
